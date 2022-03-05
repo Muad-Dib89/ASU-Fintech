@@ -7,3 +7,5 @@ I quickly took on more responsiblities and worked wiht the SCRUM development tea
 In June of 2021 I began working for Western Alliance Bank as a Operational Systems Analyst. I work with a multiple development teams on different products and am a Product Owner on a product that emphasizes Data Managment and Integration accross multiple bank systems. 
 My career goals are to continue to develope both my technical skills and business acumen. I would would day like to take on directorship responsibilies for Product Development initiatives.   
 I chose Fintech as a career path because it is the future of finance and a rapidly expanding industry. The opportunies and potential are endless. 
+
+![Image1](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fak7.picdn.net%2Fshutterstock%2Fvideos%2F1009995527%2Fthumb%2F1.jpg&f=1&nofb=1)
