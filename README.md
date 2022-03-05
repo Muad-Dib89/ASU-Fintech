@@ -1,5 +1,5 @@
 # ASU-Fintech
-USE Fintech Class 
+## USE Fintech Class 
 My name is Jacob. I have a bachelors degree in IT Management and currently work as an Opertational Systems Analyst at Western Alliance Bank. 
 I have been working in Software Development for 5 years. I started as a Client Support Analyst for a company named Open Systems Adaptable Solutions.  
 The product I worked on was an ERP system for Manufacturing and regulatory compliance. Specifically food manufacturing and Cannabis manufacturing.  
